@@ -1,6 +1,6 @@
 # Tarea 1 · Algoritmos greedy en LeetCode
 
-## ![Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) 
+## [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) 
 
 ### Criterio greedy:
 Aquí el punto clave es como manejar la devuelta cuando el pago es con un billete de $20, puesto que hay que devolver $15.
@@ -12,12 +12,12 @@ Aquí el punto clave es como manejar la devuelta cuando el pago es con un billet
 - *Complejidad de espacio:* O(1) porque solo son utilizadas dos variables tipo int fijas para el conteo.
 
 ### Evidencia:
-- ![Statement and resolution code — Lemonade Change](evidencias/01-lemonade-change-statement-and-code.png)
-- ![Accepted and runtime — Lemonade Change](evidencias/02-lemonade-change-accepted-runtime.png)
-- ![Accepted and memory — Lemonade Change](evidencias/03-lemonade-change-accepted-memory.png)
+- ![Statement and resolution code — Lemonade Change](evidencia/01-lemonade-change-statement-and-code.png)
+- ![Accepted and runtime — Lemonade Change](evidencia/02-lemonade-change-accepted-runtime.png)
+- ![Accepted and memory — Lemonade Change](evidencia/03-lemonade-change-accepted-memory.png)
 
 
-## ![455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) 
+## [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) 
 
 ### Criterio greedy:
 Aquí el ordenamiento es clave, de esta manera evitamos desperdiciar una galleta grande en un niño que se hubiese satisfecho con una más pequeña.
@@ -28,6 +28,6 @@ También el uso de los punteros es fundamental. Avanzar el puntero de galleta en
 - *Complejidad de espacio:* O(1) puesto que el ordenamiento se hace sobre los mismos arreglos, entonces no usamos memoria extra.
 
 ### Evidencia:
-- ![Statement and resolution code — Assign Cookies](evidencias/04-assign-cookies-statement-and-code.png)
-- ![Accepted and runtime — Assign Cookies](evidencias/05-assign-cookies-accepted-runtime.png)
-- ![Accepted and memory — Assign Cookies](evidencias/06-assign-cookies-accepted-memory.png)
+- ![Statement and resolution code — Assign Cookies](evidencia/04-assign-cookies-statement-and-code.png)
+- ![Accepted and runtime — Assign Cookies](evidencia/05-assign-cookies-accepted-runtime.png)
+- ![Accepted and memory — Assign Cookies](evidencia/06-assign-cookies-accepted-memory.png)
